@@ -1,3 +1,7 @@
+__author__ = "CaptWake"
+__license__ = "MIT"
+__version__ = "1.0.0"
+
 import enum
 import json
 import struct
